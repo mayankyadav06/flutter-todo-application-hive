@@ -1,3 +1,5 @@
+
+
 ---
 
 # Taskit - A Simple To-Do App
@@ -43,7 +45,8 @@
 
 ## Screenshots
 
-_Include screenshots of the app here if available_
+![image](https://github.com/user-attachments/assets/cd0d64de-dd4a-43be-9b25-06abc28e1bd5)
+
 
 ## Contributions
 
